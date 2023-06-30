@@ -78,7 +78,15 @@ i{
     padding: 5px 20px;
 }
 
-.netflix-profile{
+/*.netflix-profile{
+    width: 30px;
+    height: 30px;
+    background-color: gray;
+    border-radius: 4px;
+    margin-left: 20px;
+    cursor: pointer;
+}*/
+.netflix-profile img{
     width: 30px;
     height: 30px;
     background-color: gray;
